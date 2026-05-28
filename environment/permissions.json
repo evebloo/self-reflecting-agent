@@ -1,0 +1,24 @@
+{
+  "description": "What this agent is and is not allowed to access. Edit this file to change the agent's boundaries.",
+
+  "can_read": [
+    "environment/context/",
+    "person/memory/self_model.json",
+    "person/system_prompt.md",
+    "person/skills/"
+  ],
+
+  "can_write": [
+    "output/digest/",
+    "output/pending_review.md",
+    "person/memory/self_model.json"
+  ],
+
+  "cannot_access": [
+    "Everything outside this project folder",
+    "Your email, Slack, calendar, or any external service",
+    "Any file not listed above"
+  ],
+
+  "note": "This file makes the agent's boundaries explicit and readable. It is loaded at the start of every run."
+}
