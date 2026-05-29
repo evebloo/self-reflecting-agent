@@ -3,9 +3,9 @@ A proof of concept for a mini agent harness containing a self-reflecting agent: 
 
 # Self-Reflecting Agent
 
-A proof of concept for building a self-reflecting daily context agent, built and documented as part of my *Thinkering* series on [Substack](https://eveblou.com).
+A proof of concept for building a self-reflecting daily context agent, built and documented as part of my series on [Substack](https://eveblou.com).
 
-This is not a polished product. It's a working prototype I built to explore what it means to design an agent with intention, rather than just prompt one into existence. The full write-up, including the design thinking behind every decision — is here: [Why building agents is a design problem](https://evebl.com).
+This is not a polished product. It's a working prototype I built to explore what it means to design an agent with intention, rather than just prompt one into existence. The full write-up, including the design thinking behind every decision — is here: [Why building agents is a design problem](https://substack.com/home/post/p-199387668).
 
 ---
 
@@ -163,4 +163,4 @@ That's a systems problem. But it starts here, with understanding the parts.
 
 ---
 
-*Built by [Eve-Marie Blouin-Hudon](https://x.com/eveblou) | Helping you see things differently | I'm an experimental psychologist turned product builder. I think and tinker about behavior, design, technology.)
+*Built by [Eve-Marie Blouin-Hudon](https://x.com/eveblou) | Helping you see things differently | I'm an experimental psychologist turned product builder. I think and tinker about behavior, design, technology.
